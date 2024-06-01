@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>vortex1A4</h1>
 
-<!--
-**vortex1A4/vortex1A4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi there, I'm vortex! Welcome to my GitHub profile.</p>
 
-Here are some ideas to get you started:
+<a href="https://discord.c99.nl/widget/theme-1/635634909632790534.png">
+  <img src="https://discord.c99.nl/widget/theme-1/635634909632790534.png" alt="Discord" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact Me</h2>
+
+<p>You can reach out to me on the following platforms:</p>
+<ul>
+  <li>Discord: vortex1A4</li>
+</ul>
